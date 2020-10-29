@@ -1,6 +1,4 @@
-/*******85.Program of difference linked list*****/
-/***********Author : Abhishek Kumar *************/
-/************************************************/
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node
